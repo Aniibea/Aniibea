@@ -8,5 +8,3 @@ Olá, eu sou Beatriz, pode me chamar de Ani ou Bea, tenho 23 anos e estou atualm
 
 ## Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniibea&theme=transparent&bg_color=bca5d4&border_color=7164b4&show_icons=true&icon_color=7164b4&title_color=efe2fa&text_color=000)
-
-## Minhas contribuições
